@@ -1,4 +1,5 @@
 from ai_integration import optimizeaza_text_experienta
+from ats_scanner import calculeaza_scor_ats
 import streamlit as st
 
 def afiseaza_interfata():
